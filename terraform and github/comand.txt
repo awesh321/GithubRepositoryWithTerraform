@@ -1,0 +1,9 @@
+terraform fmt // use to reset the best peractise of codes 
+terraform plan  // use to tell all the changes happen
+terraform validate //to check everything is allright 
+terraform apply // to apply all the changes 
+terraform console // to check the valuse in terraform
+terraform refresh // it changes all the things validate in terraform files
+terraform destroy //to destroy the changes you did while applying
+terraform init // it will create all the file you need for terraform
+
